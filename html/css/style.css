@@ -3,3 +3,50 @@
 	margin:0;
 	padding:0;
 }
+
+.header
+{
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	margin-top:50px;
+}
+
+.autentificare
+{
+	padding-top:50px;
+	margin:0 auto;
+	text-align:center;
+}
+
+.submit
+{
+	background-color:#FF0000;
+	border-color:#fff;
+}
+
+.submit:hover
+{
+	background-color:#fff;
+	color:#FF0000;
+	border-color:#FF0000;
+	box-shadow:none;
+
+}
+
+.submit:active:focus {
+  color: #fff !important;
+  background-color: #FF0000 !important; 
+  border-color: #fff !important;
+  box-shadow:none !important;
+}
+
+.input
+{
+	border: 1px solid #FF0000;
+}
+
+ .input:focus, .input:hover{
+    border-color:#FF0000;
+    box-shadow:none;
+}
