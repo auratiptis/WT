@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+	<head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="canonical" content="">
@@ -10,8 +10,13 @@
 	<link href="html/css/style.css" rel="stylesheet">
 
 
-</head>
-<body>
+	</head>
 
-</body>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="title"> Zona de autentificare</div>
+			</div>
+		</div>
+	</body>
 </html>
